@@ -1,7 +1,3 @@
-# Link Shortener! #
+# Piano Ear Trainer #
 
-### A link bit.ly like link shortener for Launch Academy 2015 ###
-
-+ This is where the project URL will go.
-
-Erik and Gen are collaborating!
+This is server side js app that helps user to train their pitch recognition using sounds from a piano along with testing.
